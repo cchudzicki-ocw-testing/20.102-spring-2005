@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: CancerFit3_7.jar
-type: OCWFile
 uid: b42b4e1f-d850-3d2a-a70b-95d79ce59ead
 ---

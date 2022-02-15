@@ -14,6 +14,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: macroepi.pdf
-type: OCWFile
 uid: 463ef47b-626f-6c3c-3e9e-c2b255871b7b
 ---

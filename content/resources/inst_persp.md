@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: inst_persp.pdf
-type: OCWFile
 uid: 44d0b5df-046e-574c-d5a0-7d3be026dd62
 ---

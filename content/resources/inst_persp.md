@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: d75f2a92-a3b5-774a-ec83-ea30ef26358f
 resourcetype: Document
 title: inst_persp.pdf
 uid: 44d0b5df-046e-574c-d5a0-7d3be026dd62

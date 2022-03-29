@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 353224f8-5912-24e2-f273-59c0aa56b239
 resourcetype: Other
 title: CancerFit3_7.jar
 uid: b42b4e1f-d850-3d2a-a70b-95d79ce59ead

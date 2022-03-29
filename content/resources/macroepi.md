@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3546b380-6cf2-0f9d-3b91-d2d99580c0d1
 resourcetype: Document
 title: macroepi.pdf
 uid: 463ef47b-626f-6c3c-3e9e-c2b255871b7b

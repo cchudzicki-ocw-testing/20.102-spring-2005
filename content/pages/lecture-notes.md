@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides outlines of each course lecture.
 draft: false
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: This handout provides notes from the instructor detailing his persp
 file: /courses/20-102-macroepidemiology-be-102-spring-2005/44d0b5df046e574cd5a07d3be026dd62_inst_persp.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection

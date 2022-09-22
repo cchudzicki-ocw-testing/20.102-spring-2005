@@ -6,6 +6,7 @@ file: /courses/20-102-macroepidemiology-be-102-spring-2005/ef5934d17994e067854e1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
